@@ -303,7 +303,7 @@ def translate_text():
     translated_text_var.set(translated_text.strip())
 
 # Step 1: Read and preprocess data
-with open("data6.txt", "r", encoding="utf-8") as file:
+with open("data8.txt", "r", encoding="utf-8") as file:
     lines = file.readlines()
 
 X = []
